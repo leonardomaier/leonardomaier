@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**leonardomaier/leonardomaier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer and I like solving problems (even problems that don't exist).
 
-Here are some ideas to get you started:
+Most of time I worked both in backend and frontend, but recently I got more involved in frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### NOW
+
+- ✨ Working as a Tech Lead @ BairesDev;
+- ⚡️ Trying to be more active on GitHub and open source community.
+- ⚙️ Released my first npm package
+
+#### Published npm packages
+
+- [jest-fs](https://www.npmjs.com/package/jest-fs)
+- [kaeru](https://www.npmjs.com/package/kaeru)
