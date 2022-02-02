@@ -5,7 +5,7 @@ Most of time I worked both in backend and frontend, but recently I got more invo
 ##### NOW
 
 - ✨ Working as a Tech Lead @ BairesDev;
-- ⚡️ Trying to be more active on GitHub and open source community.
+- ⚡️ Working on open source
 - ⚙️ Released my first npm package
 
 #### Published npm packages
