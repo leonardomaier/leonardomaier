@@ -6,7 +6,7 @@ Most of time I worked both in backend and frontend, but recently I got more invo
 
 - Working as a Tech Lead @ BairesDev;
 - Working on open source
-- ⚙Released my first npm package
+- Released my first npm package
 
 #### Published npm packages
 
