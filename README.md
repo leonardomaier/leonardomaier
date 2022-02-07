@@ -8,6 +8,10 @@ Most of time I worked both in backend and frontend, but recently I got more invo
 - Working on open source
 - Released my first npm package
 
+#### Contributing to
+
+- [ScanAPI](https://github.com/scanapi/scanapi)
+
 #### Published npm packages
 
 - [jest-fs](https://www.npmjs.com/package/jest-fs)
